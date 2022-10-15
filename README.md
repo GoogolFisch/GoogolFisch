@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @GoogolFisch
-I’m programming in Python.
+I’m programming in Python and Lua(Love2d).
 And my Projekts are:
 - a Shell replacement(not_shell)
 
