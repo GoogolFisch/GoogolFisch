@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m @GoogolFisch
-I’m programming in Python and Lua(Love2d).
+I did programming in python and/or lua, but I like C!
+My favorite editor is vim.jjjjjjj
+
 And my Projekts are:
 - a Shell replacement(not_shell)
 
