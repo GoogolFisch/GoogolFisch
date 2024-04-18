@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @GoogolFisch
-I did programming in python and/or lua, but I like C!
+I did programming in python and/or lua, but I like C! \
 My favorite editor is vim.jjjjjjj
 
 And my Projekts are:
